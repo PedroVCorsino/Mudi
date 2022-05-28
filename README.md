@@ -1,5 +1,4 @@
-# mudi_Spring-Thymeleaf
-Crud basico feito com Spring MVC, Thymeleaf e Bootstrap
+# Crud basico feito com Spring MVC, Thymeleaf e Bootstrap
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)

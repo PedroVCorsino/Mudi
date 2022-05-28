@@ -9,7 +9,7 @@
 - Java 1.8
 - PostgreSQL 12
 
-## Para executar
+## Como executar
 -No terminal vá ate ```/Spring-MVC/projeto-mudi/mudi/``` e digite ```./run```  
 
 ##

@@ -10,7 +10,7 @@
 ## Descrição 
 Crud basico feito com Spring MVC, Thymeleaf, Bootstrap e PostgreSQL para banco de dados.
 
-Criado durante a formação de [Spring framework](https://github.com/PedroVCorsino/Alura-Spring-Framework "Go to Alura-Spring-Framework Repository") da @alura.
+Criado durante a formação de [Spring framework](https://github.com/PedroVCorsino/Alura-Spring-Framework "Go to Alura-Spring-Framework Repository") da [Alura](https://www.alura.com.br/ "Go to Alura").
 
 ## Requisitos necessários
 - Maven 3.6.6 

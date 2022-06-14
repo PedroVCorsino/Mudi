@@ -21,4 +21,4 @@ Criado durante a formação de [Spring framework](https://github.com/PedroVCorsi
 - No terminal vá ate ```/Spring-MVC/projeto-mudi/mudi/``` e digite ```./run```  
 
 ##
-Uma versão melhorada desse projeto pode ser encontrada [aqui](https://github.com/PedroVCorsino/Mudi_Avancado/edit/main/README.md "Go to Mudi_Avancado Repository")
+Uma versão melhorada desse projeto pode ser encontrada [aqui](https://github.com/PedroVCorsino/Mudi_Avancado "Go to Mudi_Avancado Repository")
